@@ -1,2 +1,2 @@
 # XSE Lua Framework
-* xse lua framework create solyess
+* xse lua framework create by solyess
